@@ -3,4 +3,4 @@
 Download the programm from the releases!
 WRITEN IN JAVA
 
-[![Watch the video](https://youtu.be/VcuIGogEqMQ)]
+[![Watch the video (https://youtu.be/VcuIGogEqMQ)]
